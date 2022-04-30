@@ -1,4 +1,4 @@
-package gitpra;
+package prac1;
 
 import org.testng.TestNG;
 import org.testng.annotations.Test;
