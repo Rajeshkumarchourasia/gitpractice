@@ -9,6 +9,7 @@ public class GitDemo {
 	public void m1()
 	{
 		System.out.println("git 1 commit");
+		System.out.println("heeloo1");
 	}
 
 }
