@@ -10,6 +10,13 @@ public class GitDemo {
 	{
 		System.out.println("git 1 commit");
 		System.out.println("heeloo1");
+		System.out.println("my name is rajesh");
+		System.out.println("hey");
+		System.out.println("haiiiiiii");
+		
+		
+		
+		
 	}
 
 }
